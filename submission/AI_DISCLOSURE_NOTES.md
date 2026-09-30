@@ -1,0 +1,1 @@
+# AI Disclosure Notes\n\nComplete the official disclosure form truthfully. Record actual AI usage by feature, including brainstorming, code assistance, UI/UX, content, testing/debugging, and feature origin. Do not claim work or tools the team did not actually use.\n
