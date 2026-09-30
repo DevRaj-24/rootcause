@@ -1,1 +1,3 @@
-# Demo Video\n\nThe final demo video must be recorded by the team and linked in the hackathon submission. The 5-minute flow is in docs/DEMO_SCRIPT.md.\n
+# RootCause Demo Video
+
+Generated prototype walkthrough: RootCause_Demo.mp4. Duration is under five minutes.
