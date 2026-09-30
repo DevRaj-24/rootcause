@@ -29,7 +29,7 @@ jobs:
           if git diff --cached --quiet; then echo "No generated changes"; else git commit -m "Add final submission artifacts"; git push origin main; fi
       - name: Create final tag and release
         env:
-          GH_TOKEN: \${{ github.token }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           TAG="PRISM_GENAI_HACKATHON_Y2026"
           git fetch --tags origin
