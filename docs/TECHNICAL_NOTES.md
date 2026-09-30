@@ -1,0 +1,1 @@
+# Technical Notes\n\n- Word + character TF-IDF retrieval\n- Fuzzy token-set reranking\n- Structured extraction from supplied SIIS text\n- Exact catalog gate over supplied deeplinks\n- Pydantic response validation\n- Intent-aware LRU cache\n- Optional LLM enrichment adapter\n\nNo generated HTTP URL is accepted in an answer.\n
