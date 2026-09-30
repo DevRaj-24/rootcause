@@ -1,0 +1,1 @@
+# Submission Checklist\n\n- Working REST prototype\n- Public/shared GitHub repository\n- README + reproducible setup\n- Dockerfile\n- Presentation file\n- Demo video ≤ 5 minutes\n- AI disclosure\n- Final tag: PRISM_GENAI_HACKATHON_Y2026\n- Ensure the tagged commit contains every referenced submission artifact\n
